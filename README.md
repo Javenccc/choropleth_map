@@ -1,6 +1,6 @@
 # first project
 
-JDA presentation: choropleth map
+choropleth map
 
 Statistics Canada boundry file:
 https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm?year=21
